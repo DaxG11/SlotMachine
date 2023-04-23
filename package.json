@@ -1,0 +1,14 @@
+{
+  "name": "javascript_project",
+  "version": "1.0.0",
+  "description": "Basic javascript project coding a slot machine to learn js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
